@@ -1,0 +1,3 @@
+[submodule "stretch_commander"]
+	path = stretch_commander
+	url = https://github.com/Aeolus96/stretch_commander.git
